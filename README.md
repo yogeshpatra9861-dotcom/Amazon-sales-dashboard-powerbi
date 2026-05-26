@@ -108,8 +108,7 @@ The dashboard includes the following interactive visualizations:
 
 ## 🖼️ Dashboard Preview
 
-![Amazon Sales Report Dashboard](dashboard_preview.png)
-
+![Amazon Sales Report Dashboard](dashboard-previewpng.png)
 ---
 
 ## 🔮 Future Improvements
