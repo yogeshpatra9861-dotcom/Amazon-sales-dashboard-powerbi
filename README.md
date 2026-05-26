@@ -4,20 +4,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset Description](#dataset-description)
-- [Data Cleaning & Transformation](#data-cleaning--transformation)
-- [Dashboard Features](#dashboard-features)
-- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
-- [Key Insights & Findings](#key-insights--findings)
-- [Tools & Technologies Used](#tools--technologies-used)
-- [Dashboard Preview](#dashboard-preview)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
-
----
 
 ## 📖 Project Overview
 
